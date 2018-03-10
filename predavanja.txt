@@ -1,0 +1,40 @@
+Predavanje 1 Importi -> import hr.fer.zemris.java;
+                     -> import static hr.fer.zemris.java.sayHi
+	             -> statički import, npr. matematičke biblioteke , Math.cos
+                     -> NE RADI import .*
+	     Paketi, razredi -> package static 
+                     razredi, veliko slovo, camelCase
+		     metode i varijable malim slovima
+		     KONST 
+		     final int BROJ_IZRACUNA = 7;
+		     new int[BROJ_IZRACUNA
+		     pune rijeci za varijable
+		     ]
+		     for int i = 0 ; i < 5; ++i => mora ici u int zaposlenik npr
+                     java -classpath bin hr.fer.zemris.java.tecaj.HelloWorld
+		     ili -cp i može ih biti vise : ili ;
+
+ 	     Javac => javac -d bin src/hr/fer/zemris/java/HelloWorld.java src/hr/fer/zemris/java/Util.java
+	              javac -d bin -sourcepath src
+		      mvn -cp target/classes hr.fer.zemris.java.tecaj1.HelloWorld
+
+
+                      java -cp target/hello-world-10.jar hr.fer.zemris.java.tecaj1.HelloWorld
+    		      juint:junit:4.12 => grupa, artefakt
+		      search maven
+		      <dependency>
+			    <groupId>junit</groupId>
+			    <artifactId>junit</artifactId>
+			    <version>4.12</version>
+		     </dependency>
+
+		     .m2 folder lokalni 
+		     mvn compile
+		     mvn package 
+		     mvn clean
+		     mvn test-compile
+		     mvn test
+		     POM.XML => STAVI JMBAG i tecaj xy
+		      
+		     scope kod pom.xml
+		     expected runtimeException.class

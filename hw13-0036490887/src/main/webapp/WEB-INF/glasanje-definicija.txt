@@ -1,0 +1,9 @@
+1	Bryan Adams	https://www.youtube.com/watch?v=eFjjO_lhf9c
+2	Zapresic Boys	https://www.youtube.com/watch?v=Zo0eIrWKAX4
+3	Chuck Berry	https://www.youtube.com/watch?v=T38v3-SSGcM
+4	Frank Sinatra	https://www.youtube.com/watch?v=mQR0bXO_yI8
+5	Goo Goo Dolls	https://www.youtube.com/watch?v=NdYWuo9OFAw
+6	Creedence Clearwater Revival	https://www.youtube.com/watch?v=Gu2pVPWGYMQ
+7	Prljavo Kazalište 	https://www.youtube.com/watch?v=blFMYuU4stE
+8	Bruce Springsteen  	https://www.youtube.com/watch?v=129kuDCQtHs
+9	Emina Arapović 	https://www.youtube.com/watch?v=5eWWCcd25HU

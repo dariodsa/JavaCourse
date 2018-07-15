@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite tests="35" failures="0" name="hr.fer.zemris.java.hw03.Test" time="0.04" errors="0" skipped="0">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="java.vm.version" value="9.0.4+11"/>
+    <property name="sun.boot.library.path" value="/usr/java/jdk-9.0.4/lib"/>
+    <property name="maven.multiModuleProjectDirectory" value="/home/dario/eclipse-workspace/java-course/hw03-0036490887"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="path.separator" value=":"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="sun.os.patch.level" value="unknown"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="/home/dario/eclipse-workspace/java-course/hw03-0036490887"/>
+    <property name="java.vm.compressedOopsMode" value="32-bit"/>
+    <property name="java.runtime.version" value="9.0.4+11"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.X11GraphicsEnvironment"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="/tmp"/>
+    <property name="line.separator" value="
+"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="os.name" value="Linux"/>
+    <property name="classworlds.conf" value="/usr/share/maven/bin/m2.conf"/>
+    <property name="sun.jnu.encoding" value="UTF-8"/>
+    <property name="java.library.path" value="/usr/java/packages/lib:/usr/lib64:/lib64:/lib:/usr/lib"/>
+    <property name="maven.conf" value="/usr/share/maven/conf"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="java.class.version" value="53.0"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="4.15.9-300.fc27.x86_64"/>
+    <property name="library.jansi.path" value="/usr/share/maven/lib/jansi-native/linux64"/>
+    <property name="user.home" value="/home/dario"/>
+    <property name="user.timezone" value="Europe/Zagreb"/>
+    <property name="java.awt.printerjob" value="sun.print.PSPrinterJob"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.specification.version" value="9"/>
+    <property name="user.name" value="dario"/>
+    <property name="java.class.path" value="/usr/share/java/plexus-classworlds.jar"/>
+    <property name="java.vm.specification.version" value="9"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher test"/>
+    <property name="java.home" value="/usr/java/jdk-9.0.4"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="awt.toolkit" value="sun.awt.X11.XToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="9.0.4"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="/usr/share/maven"/>
+    <property name="file.separator" value="/"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.java.com/bugreport/"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.desktop" value="gnome"/>
+    <property name="sun.cpu.isalist" value=""/>
+  </properties>
+  <testcase classname="hr.fer.zemris.java.hw03.Test" name="testLexerWrongVariable" time="0.007"/>
+  <testcase classname="hr.fer.zemris.java.hw03.Test" name="testFromExample" time="0.014"/>
+  <testcase classname="hr.fer.zemris.java.hw03.Test" name="testLexerFor" time="0.001"/>
+  <testcase classname="hr.fer.zemris.java.hw03.Test" name="testParserForTooManyArguments2" time="0.001"/>
+  <testcase classname="hr.fer.zemris.java.hw03.Test" name="testParserFor" time="0"/>
+  <testcase classname="hr.fer.zemris.java.hw03.Test" name="testLexerTooBigNumbers" time="0.001"/>
+  <testcase classname="hr.fer.zemris.java.hw03.Test" name="testParserUnkownTag" time="0.001"/>
+  <testcase classname="hr.fer.zemris.java.hw03.Test" name="testLexerWrongNameVariable" time="0.005"/>
+  <testcase classname="hr.fer.zemris.java.hw03.Test" name="testParserException" time="0"/>
+  <testcase classname="hr.fer.zemris.java.hw03.Test" name="testParserForFunctionElement" time="0.001"/>
+  <testcase classname="hr.fer.zemris.java.hw03.Test" name="testParserForWithoutEndTag" time="0"/>
+  <testcase classname="hr.fer.zemris.java.hw03.Test" name="testEscapingLexer" time="0"/>
+  <testcase classname="hr.fer.zemris.java.hw03.Test" name="testLexerWrongNameVariable2" time="0"/>
+  <testcase classname="hr.fer.zemris.java.hw03.Test" name="testParserForTooManyArguments" time="0"/>
+  <testcase classname="hr.fer.zemris.java.hw03.Test" name="testFromExample2" time="0.001"/>
+  <testcase classname="hr.fer.zemris.java.hw03.Test" name="testParserForVariableName" time="0.001"/>
+  <testcase classname="hr.fer.zemris.java.hw03.Test" name="testLexerNegativeNumbers" time="0"/>
+  <testcase classname="hr.fer.zemris.java.hw03.Test" name="testParserForTooFewArguments2" time="0"/>
+  <testcase classname="hr.fer.zemris.java.hw03.Test" name="testParserForTooFewArguments3" time="0.003"/>
+  <testcase classname="hr.fer.zemris.java.hw03.Test" name="testParserForTooFewArguments" time="0"/>
+  <testcase classname="hr.fer.zemris.java.hw03.Test" name="testLexer1" time="0.001"/>
+  <testcase classname="hr.fer.zemris.java.hw03.Test" name="testLexer2" time="0"/>
+  <testcase classname="hr.fer.zemris.java.hw03.Test" name="testLexer3" time="0.001"/>
+  <testcase classname="hr.fer.zemris.java.hw03.Test" name="testLexer4" time="0"/>
+  <testcase classname="hr.fer.zemris.java.hw03.Test" name="testLexer5" time="0"/>
+  <testcase classname="hr.fer.zemris.java.hw03.Test" name="testLexer6" time="0"/>
+  <testcase classname="hr.fer.zemris.java.hw03.Test" name="testFromExample3Parser" time="0"/>
+  <testcase classname="hr.fer.zemris.java.hw03.Test" name="testFromExample3Lexer" time="0"/>
+  <testcase classname="hr.fer.zemris.java.hw03.Test" name="testEscapingLexer2" time="0"/>
+  <testcase classname="hr.fer.zemris.java.hw03.Test" name="testEscapingLexer3" time="0"/>
+  <testcase classname="hr.fer.zemris.java.hw03.Test" name="testEscapingLexer4" time="0"/>
+  <testcase classname="hr.fer.zemris.java.hw03.Test" name="testEscapingLexer5" time="0"/>
+  <testcase classname="hr.fer.zemris.java.hw03.Test" name="testEscapingLexer6" time="0.002"/>
+  <testcase classname="hr.fer.zemris.java.hw03.Test" name="testEscapingLexer7" time="0"/>
+  <testcase classname="hr.fer.zemris.java.hw03.Test" name="testEscapingLexer8" time="0"/>
+</testsuite>

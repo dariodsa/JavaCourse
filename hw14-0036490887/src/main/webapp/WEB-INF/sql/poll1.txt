@@ -1,0 +1,8 @@
+INSERT INTO Polls (title, message) VALUES ('Najbolji bend', 'Koji je Vaš najdraži bend?')
+INSERT INTO PollOptions (optionTitle,optionLink, pollID, votesCount) VALUES ('Willamette Stone', 'https://www.youtube.com/watch?v=tAIF8pUPwm0', ?, 0)
+INSERT INTO PollOptions (optionTitle,optionLink, pollID, votesCount) VALUES ('Creedence Clearwater Revival', 'https://www.youtube.com/watch?v=Gu2pVPWGYMQ', ?, 0)
+INSERT INTO PollOptions (optionTitle,optionLink, pollID, votesCount) VALUES ('Chuck Berry', 'https://www.youtube.com/watch?v=T38v3-SSGcM', ?, 0)
+INSERT INTO PollOptions (optionTitle,optionLink, pollID, votesCount) VALUES ('Frank Sinatra', 'https://www.youtube.com/watch?v=mQR0bXO_yI8', ?, 0)
+INSERT INTO PollOptions (optionTitle,optionLink, pollID, votesCount) VALUES ('Kawasaki 3p', 'https://www.youtube.com/watch?v=79bBxpq6lCA', ?, 0)
+INSERT INTO PollOptions (optionTitle,optionLink, pollID, votesCount) VALUES ('Robbie Williams', 'https://www.youtube.com/watch?v=ymPu2PdLW3I',?,0)
+INSERT INTO PollOptions (optionTitle,optionLink, pollID, votesCount) VALUES ('The Beatles', 'https://www.youtube.com/watch?v=z9ypq6_5bsg', ?,0)

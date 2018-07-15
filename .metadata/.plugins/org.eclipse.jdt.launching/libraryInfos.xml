@@ -21,4 +21,5 @@
             <entry path="C:\Program Files\Java\jre1.8.0_131\lib\endorsed"/>
         </endorsedDirs>
     </libraryInfo>
+    <libraryInfo home="/usr/java/jdk-9.0.4" version="9.0.4"/>
 </libraryInfos>

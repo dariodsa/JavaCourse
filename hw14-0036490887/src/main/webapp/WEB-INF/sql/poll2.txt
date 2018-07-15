@@ -1,0 +1,6 @@
+INSERT INTO Polls (title, message) VALUES ('Najbolji bend u Hrvatskoj', 'Koji je Vaš najdraži hrvatski bend?')
+INSERT INTO PollOptions (optionTitle,optionLink, pollID, votesCount) VALUES ('Parni valjak', 'https://www.youtube.com/watch?v=tzD_CVh_GuI', ?, 0)
+INSERT INTO PollOptions (optionTitle,optionLink, pollID, votesCount) VALUES ('Prljavo kazalište', 'https://www.youtube.com/watch?v=blFMYuU4stE', ?, 0)
+INSERT INTO PollOptions (optionTitle,optionLink, pollID, votesCount) VALUES ('Opća opasnost', 'https://www.youtube.com/watch?v=SePCqxexRnA', ?, 0)
+INSERT INTO PollOptions (optionTitle,optionLink, pollID, votesCount) VALUES ('Pips, Chips & Video Clips', 'https://www.youtube.com/watch?v=EMublSl2zzo', ?, 0)
+INSERT INTO PollOptions (optionTitle,optionLink, pollID, votesCount) VALUES ('Zaprešić Boys', 'https://www.youtube.com/watch?v=Zo0eIrWKAX4', ?, 0)

@@ -1,0 +1,60 @@
+ekaterinburg.png
+Ekaterinburg, Екатеринбург
+Ural, industrija, tech industrija
+irkuts.jpg
+Irkuts, Ирктус
+Azija, jezero
+jaroslav.jpg
+Jaroslav, ярослав
+priroda, jezero 
+kalingrad.jpg
+Kalingrad, Калинград
+Europa, teorija grafova
+kazan.jpg
+Kazan, Казан
+Volga, hidroelektrana
+krasnodar.jpg
+Krasnodar, Краснодар
+Crno more, ribolov
+luki.jpg
+Luki, Луки
+Europa, jezero, kultura
+moscow.jpg
+Moskva, Москва
+glavni grad, olimpijske igre, Transsibirska željeznica
+nizhnii-novgorod.jpg
+Nižnji Novgorod, Нижний Новгород
+Oka, Volga, auto industrija
+novosibirsk.jpg
+Novosibirsk, Новосибирск
+Sibir,  Transsibirska željeznica, Oka
+omsk.jpg
+Omsk, Омск
+Sibir, Azija 
+penza.jpg
+Penza, Пенза
+jezero, ribolov
+rostov.jpg
+Rostov na Donu, Ростов на Дону
+ribolov, Crno more, visoke temperature
+saint-petersburg.jpg
+St. Petersburg, Санкт Петербург
+kultura, Europa, tech industrija
+samara.jpg
+Samara, Самара
+auto industrija, svemirski muzej
+sochi.jpg
+Soči, Сочи
+Crno more, olimpijske igre, visoke temperature
+ufa.jpg
+Ufa, Уфа
+Ural, Belaja, industrija
+vladivostok.jpg
+Vladivostok, Владивосток
+Azija, Transsibirska željeznica
+volgograd.jpg
+Volgograd, Волгоград
+Volga, hidroelektrana, petrokemija
+cita.jpg
+Čita, Чита
+Azija, Sibir, priroda

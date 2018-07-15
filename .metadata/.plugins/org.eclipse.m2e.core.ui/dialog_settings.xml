@@ -1,8 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+		<list key="ciManagementUrl">
+		</list>
+		<list key="ciManagementSystem">
+		</list>
+		<list key="issueManagementSystem">
+		</list>
+		<list key="issueManagementUrl">
+		</list>
+	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
-			<item value="C:\Users\Dario\Desktop\FER\JAVA\hw01-0036490887"/>
+			<item value="/home/dario/eclipse-workspace/java-course/hw05-0036490887"/>
+			<item value="/home/dario/eclipse-workspace/java-course/hw04-0036490887"/>
+			<item value="/home/dario/Documents/Projects/IaafScore"/>
+			<item value="/home/dario/eclipse-workspace/java-course/hw17-0036490887"/>
+			<item value="/home/dario/eclipse-workspace/java-course/14b-jsaplikacija"/>
+			<item value="/home/dario/eclipse-workspace/java-course/hw16-0036490887-2"/>
+			<item value="/home/dario/eclipse-workspace/java-course/hw16-0036490887-1"/>
+			<item value="/home/dario/eclipse-workspace/class-projects/webapp-bazaorm.zip_expanded/webapp-bazaorm"/>
+			<item value="/home/dario/eclipse-workspace/java-course/hw15-0036490887"/>
+			<item value="/home/dario/eclipse-workspace/java-course/hw14-0036490887"/>
+			<item value="/home/dario/eclipse-workspace/java-course/hw13-0036490887"/>
+			<item value="/home/dario/eclipse-workspace/java-course/hw06-0036490887"/>
+			<item value="/home/dario/eclipse-workspace/java-course/hw03-0036490887"/>
+			<item value="/home/dario/eclipse-workspace/java-course/hw12-0036490887"/>
+			<item value="/home/dario/eclipse-workspace/java-course/hw02-0036490887"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>

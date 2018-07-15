@@ -11,23 +11,15 @@
   <description>
      Prva aplikacija
   </description>
-<<<<<<< HEAD
-  <listener>
-	<listener-class>
-             hr.fer.zemris.java.web.listeners.ServerTimeListener
-        </listener-class>
-   </listener>
-=======
-  
->>>>>>> e491ac7bfaab4b16a4e5916f443f67797f3a7015
-  <!-- <servlet>
+  <!--
+  <servlet>
   	<servlet-name>prvi</servlet-name>
-  	<servlet-class>hr.fer.zemris.java.web.ColorChooser</servlet-class>
+  	<servlet-class>hr.fer.zemris.java.p11.servleti.PrviServlet</servlet-class>
   </servlet>
 
 
 	<servlet-mapping>
 		<servlet-name>prvi</servlet-name>
-		<url-pattern>/setColor</url-pattern>
+		<url-pattern>/pozdravljac</url-pattern>
 	</servlet-mapping>-->
 </web-app>

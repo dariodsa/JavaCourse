@@ -15,13 +15,8 @@
     
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-<<<<<<< HEAD
-    <maven.compiler.source>9</maven.compiler.source>
-    <maven.compiler.target>9</maven.compiler.target>
-=======
     <maven.compiler.source>8</maven.compiler.source>
     <maven.compiler.target>8</maven.compiler.target>
->>>>>>> e491ac7bfaab4b16a4e5916f443f67797f3a7015
     <maven.compiler.showDeprecation>true</maven.compiler.showDeprecation>
   </properties>
 
@@ -30,25 +25,7 @@
       <plugin>
         <groupId>org.eclipse.jetty</groupId>
         <artifactId>jetty-maven-plugin</artifactId>
-<<<<<<< HEAD
-        <version>9.4.10.v20180503</version>
-
-	<dependencies>
-        <dependency>
-            <groupId>org.ow2.asm</groupId>
-            <artifactId>asm</artifactId>
-            <version>5.0.2</version>
-        </dependency>
-        <dependency>
-            <groupId>org.ow2.asm</groupId>
-            <artifactId>asm-commons</artifactId>
-            <version>5.0.2</version>
-        </dependency>
-    </dependencies>
-
-=======
         <version>9.4.5.v20170502</version>
->>>>>>> e491ac7bfaab4b16a4e5916f443f67797f3a7015
         <configuration>
           <scanIntervalSeconds>3</scanIntervalSeconds>
           <webApp>

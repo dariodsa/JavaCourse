@@ -48,12 +48,16 @@ public class BendResult implements Comparable<BendResult> {
     public Bend getBend() {
         return bend;
     }
+<<<<<<< HEAD
     /**
      * Adds one vote to the bend.
      */
     public void addOneVote() {
         this.numOfVotes++;
     }
+=======
+
+>>>>>>> e491ac7bfaab4b16a4e5916f443f67797f3a7015
     @Override
     public int compareTo(BendResult bendResult) {
         return Integer.compare(bendResult.numOfVotes, numOfVotes);
